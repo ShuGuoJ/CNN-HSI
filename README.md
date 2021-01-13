@@ -94,5 +94,6 @@ This is a reproduction of *Convolutional neural networks for hyperspectral image
 <td>0.37</td>
 </tr>
 </table>
+
 ## Runing the code
 训练CNN_HSI `python CrossTrain.py --name xx --epoch xx --lr xx`
